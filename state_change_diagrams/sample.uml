@@ -1,0 +1,6 @@
+@startuml{sample.png}
+[*] --> State2 : i
+State2 : ID
+State2 --> State3 : f
+State3 : IF
+@enduml
